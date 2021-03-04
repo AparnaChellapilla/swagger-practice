@@ -1,7 +1,5 @@
 package com.tts.swaggerpractice.model;
 
-
-
 import io.swagger.annotations.ApiModelProperty;
 
 import java.util.Date;
